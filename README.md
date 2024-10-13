@@ -1,4 +1,4 @@
-<p align="center">  <img width="400" height="200" src="https://avatars.githubusercontent.com/u/98489395?v=4" alt="amosmaru" /> </p>
+<p align="center">  <img width="400" src="https://avatars.githubusercontent.com/u/98489395?v=4" alt="amosmaru" /> </p>
 
 <h1 align="center">Hi 👋, I'm Amos Kibet</h1>
 
