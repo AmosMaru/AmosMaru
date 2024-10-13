@@ -1,4 +1,4 @@
-<p align="center">  <img width="400" height="200" src="https://camo.githubusercontent.com/5064cc6fc0ab6a2d823ce6670df19b4d4b006fa346ccaec004b90005a5a80066/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30372f33313533326437643337383035336465336238626632336336653762666165332d312e676966" alt="amosmaru" /> </p>
+<p align="center">  <img width="400" height="200" src="https://avatars.githubusercontent.com/u/98489395?v=4" alt="amosmaru" /> </p>
 
 <h1 align="center">Hi 👋, I'm Amos Kibet</h1>
 
